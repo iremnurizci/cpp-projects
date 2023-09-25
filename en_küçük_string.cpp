@@ -2,7 +2,7 @@
 #include <conio.h>
 main()
 {
-int dizi[6];
+int dizi[7];
 int enk,i;
 printf("Dizinin elemanlarini giriniz\n");
 for(i=0;i<6;i++){
